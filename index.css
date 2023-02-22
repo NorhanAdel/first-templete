@@ -339,7 +339,7 @@ font-size: 15px;
      margin: 10px 0;
 }
 .chang-icon{
-    background-image: url('./images/service-icon.png');
+    background-image: url('service-icon.png');
     height: 40px;
     background-repeat: no-repeat;
     transition: .5s;
